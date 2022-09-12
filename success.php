@@ -19,7 +19,41 @@ $errors = array();
     <div class="text">
       <h1>Congratulations!</h1>
       <p>Your Loan Application Was Successfully Submitted. Please wait for Approval..</p>
-      <p class="muted"><a href="home.php">Back | Home</a></p>
+            <script type="text/javascript">
+
+var count = 15;
+
+var redirect = "index.php";
+
+ 
+
+function countDown(){
+
+    var timer = document.getElementById("timer");
+
+    if(count > 0){
+
+        count--;
+
+        timer.innerHTML = "Back Home in "+count+" seconds.";
+
+        setTimeout("countDown()", 1000);
+
+    }else{
+
+        window.location.href = redirect;
+
+    }
+
+}
+
+</script>
+
+ <span id="timer">
+
+<script type="text/javascript">countDown();</script>
+
+</span>
     </div>
     <div class="space"></div>
   </div>
