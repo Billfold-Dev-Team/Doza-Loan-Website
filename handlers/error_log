@@ -1,0 +1,6 @@
+[09-Sep-2022 22:21:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ydozambia/public_html/finaldoza/handlers/process.php on line 21
+[09-Sep-2022 22:21:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ydozambia/public_html/finaldoza/handlers/process.php on line 22
+[10-Sep-2022 05:40:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ydozambia/public_html/finaldoza/handlers/process.php on line 21
+[10-Sep-2022 05:40:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ydozambia/public_html/finaldoza/handlers/process.php on line 22
+[12-Sep-2022 07:31:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ydozambia/public_html/finaldoza/handlers/process.php on line 21
+[12-Sep-2022 07:31:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ydozambia/public_html/finaldoza/handlers/process.php on line 22
