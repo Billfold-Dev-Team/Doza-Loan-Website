@@ -15,7 +15,7 @@ $errors = array();
 </head>
 <body>
   <div class="card">
-    <img src="./images/money.svg" alt="success" class="birthday">
+    <img src="./images/money.svg" alt="success" class="successful">
     <div class="text">
       <h1>Congratulations!</h1>
       <p>Your Loan Application Was Successfully Submitted. Please wait for Approval..</p>
