@@ -85,7 +85,7 @@
           </div>
           <div class="grid-item-2">
             <div class="team_img_wrapper">
-              <img src="./images/money.svg" alt="team-img" />
+              <img src="./images/money.svg" alt="Doza Loan" />
             </div>
           </div>
         </div>
